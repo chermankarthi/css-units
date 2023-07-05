@@ -1,0 +1,114 @@
+body{
+	background-color:teal;
+}
+
+h1{
+	text-align:center;
+	font-size:100px;
+	text-shadow:5px 5px 10px black;
+	color:maroon;
+}
+
+h2{
+	font-size:75px;
+	text-align:center;
+	text-shadow:5px 5px 10px;
+	color:darkblue;
+
+}
+
+h4{
+	font-size:50px;
+	margin:50px 0px 50px 100px;
+	color:whitesmoke;
+}
+
+p{
+	border:2px solid violet;
+	width:75%;
+	margin:50px 0px 50px 100px;	
+	padding:50px;
+}
+
+.a{
+	font-size:2cm;
+
+}
+
+.b{
+	font-size:10mm;
+
+}
+
+.c{
+	font-size:0.2in;
+	
+}
+
+.d{
+	font-size:10px;
+	
+}
+
+.e{
+	font-size:20pt;
+}
+
+.f{
+	font-size:1pc;
+
+}
+
+.g{
+	font-size:30px;
+	line-height:3em;
+
+}
+
+.g{
+	font-size:30px;
+	line-height:3em;
+}
+
+p.h{
+	font-size:10px;
+
+}
+
+span.hh{
+	font-size:3em;
+}
+
+p.i{
+	font-size:20px;
+}
+
+span.ii{
+	font-size:5ex;
+}
+
+p.j{
+	font-size:20px;
+	
+}
+
+p.k{
+	font-size:1vw;
+}
+
+p.l{
+	font-size:5vh;
+}
+
+
+p.m{
+	font-size:10vmin;
+}
+
+p.n{
+	font-size:5vmax;
+}
+
+p.o{
+	font-size:300%;
+}
